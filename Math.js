@@ -56,3 +56,25 @@
 
 // let min =Math.min(-1, 1, 2, 4, 6, 8, 10);
 // console.log(min);
+
+// used for natural log of math
+
+// let num =20;
+// console.log(Math.log(num));
+
+// Genrate Random Number 
+
+// let num = Math.random();
+// console.log(num);
+
+// Genrate Random Number From 1 to 5
+
+// let num = Math.floor(Math.random() *5) + 1;
+// console.log(num);
+
+
+// Used for exponets exp() used as exponet form
+
+let num = 2;
+let num2 = 7;
+console.log(Math.exp(1));
