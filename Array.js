@@ -1,9 +1,10 @@
 // Array Methods
 
 // check the valu by using index 
-//  let arr = [1,2,3,4,5,6,9];
-//  console.log(arr.at(4));
-//  console.log(arr.at(6));
+ let arr = [1,2,3,4,5,6,9];
+ console.log(arr.at(4));
+
+ console.log(arr.at(6));
 
 // Add value in array at the end of the array 
 //  let arr = [1,2,3,4,5,6,9];
